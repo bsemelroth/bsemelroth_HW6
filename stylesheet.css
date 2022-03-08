@@ -1,0 +1,50 @@
+html {
+    margin: 0;
+    padding: 0;
+    font-size: 100%;
+    line-height: 1;
+}
+
+body {
+    background-color: olive;
+}
+
+#page_title {
+    color: white;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 3rem;
+    border: 5px black solid;
+    padding: 25px;
+    margin: 100px;
+    text-align: center;
+}
+
+h2 {
+    color: darkmagenta;
+    font-style: italic;
+}
+
+h3 {
+    color: darkblue;
+    font-style: italic;
+
+}
+
+p {
+    color: white;
+}
+
+footer {
+    color: white;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+}
+
+table {
+    border: 2px black solid;
+    background-color: white;
+}
